@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: g2431
+Build-Jdk: 1.8.0_252
+Implementation-Title: CVPR_APIS
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: tk.snow
+Main-Class: ${start-class}
+

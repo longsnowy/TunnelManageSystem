@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tk.snow.tunnel.CvprApisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.562 s - in tk.snow.tunnel.CvprApisApplicationTests
